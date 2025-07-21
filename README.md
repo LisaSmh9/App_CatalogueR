@@ -4,7 +4,6 @@
 
 Ce prototype a été développé avec **R Shiny** et s'appuie sur un serveur de base de données **PostgreSQL/PostGIS**, connecté via le package `RPostgreSQL`.
 
-🔗 [Voir le prototype (Moqups)](https://app.moqups.com/k1K5vhD4tNIqdX403sCSy0auWvLPDNUk/edit/page/ac0c42cd4)
 
 ## Objectif
 
